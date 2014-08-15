@@ -1,6 +1,6 @@
 # Vultr API wrapper for Node.js
 
-This Vultr API wrapper allows you communicate with the Vult API from Node.js.<br>
+This Vultr API wrapper allows you communicate with the Vult API through Node.js.<br>
 For more information about the Vulr API, please check the [Vultr API documentation](https://www.vultr.com/api).
 
 ## Installation
