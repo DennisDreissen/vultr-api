@@ -3,7 +3,7 @@
     "description": "Easy to use Vultr API wrapper",
     "main": "./lib/vultr",
     "author": "Dennis Dreissen",
-    "version": "0.1",
+    "version": "1.0.0",
     "repository" : {
         "type" : "git",
         "url" : "https://github.com/DennisDreissen/vultr-api.git"
